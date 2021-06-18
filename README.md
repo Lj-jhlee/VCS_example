@@ -1,5 +1,7 @@
 # Version Control System Example Repository
 
+---
+
 ## Issue
 
 - 기능 개발, 버그 리포팅, 정보 공유 등
@@ -25,3 +27,4 @@
 - Minor 버전 단위로 관리 ( v1.1.0, v1.2.0 ... )
 - 이슈 등록할 때 버전에 맞는 마일스톤 연결
 - Minor 와 Patch 버전 관리용도
+
